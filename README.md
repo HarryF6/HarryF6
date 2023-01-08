@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gonzalo Ferrando and I'm a robotic engineer and I did a Master's Degree in Automation and Robotics in Universidad de Alicante
-- 👀 I’m interested in robotics, IA and programming
-- 🌱 I’m currently learning Kotlin, Java, Python, C++, ROS2,... and i'm working in Madrid in drone software company
+- 👀 I’m interested in robotics, IA and programming. Moreover, I do really like history, science-fiction topics and music.
+- 🌱 I’m currently learning Kotlin, Java, Python, C++, ROS2 and drone software topics. I'm working in Madrid in drone software company.
 - 📫 How to reach me --> https://www.linkedin.com/in/gonzalo-ferrando-alonso-54b77817a/ or gonfa1999@gmail.com
 
 <!---
